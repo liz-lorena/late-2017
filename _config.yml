@@ -1,0 +1,47 @@
+# Site Info
+title:              "lizberberena.com"
+description:        "the online portfolio of liz lorena berberena."
+
+# Author Info
+author_name:        liz lorena berberena
+username:           lizberberena
+
+# Site Settings
+baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
+permalink:          /projects/:title # Post permalink
+timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+language:           en-US
+favicon:            https://lizberberena.com/art/img/2020-cozymaus-pfp.png
+logo:               https://lizberberena.com/art/img/2020-cozymaus-pfp.png
+
+# Pagination Settings
+paginate_path: "/pg-:num/"
+paginate: 5
+
+# Site Build
+highlighter: rouge
+markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - tzinfo
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:          "posts"
+    values:
+      layout:        "post"
+
