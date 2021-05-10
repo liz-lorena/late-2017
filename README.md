@@ -1,4 +1,4 @@
-# 2017
+# late-2017
 This was my second portfolio website which I used briefly in late 2017. It was my first finished portfolio website created entirely from scratch.
 
 <img src="https://lizberberena.com/img/secondportfolio.png" alt="Screenshot of Second Portfolio" class="img-fluid"/>
