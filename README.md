@@ -25,4 +25,3 @@ This was my second portfolio website which I used briefly in late 2017. It was m
 
 <p>The other special thing I tried to do for this version of my portfolio was attempt to make a system of terms, prices, and examples for illustration and web design commissions that never really panned out. The system was too complicated because I tried using these tabs that would swap the content on the screen using Javascript and also my own gallery and preview image script.</p>
 
-<img src="https://irisoflys.com/img/newgallery.gif" alt="Gif of Custom jQuery Gallery on Second Portfolio" class="img-fluid"/>
