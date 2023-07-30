@@ -1,5 +1,5 @@
 # Site Info
-title:              "irisoflys.com"
+title:              "Portfolio of Lys"
 description:        "the online portfolio of lys."
 
 # Author Info
@@ -11,8 +11,8 @@ baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /projects/:title # Post permalink
 timezone:           America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 language:           en-US
-favicon:            /art/img/2020-cozymaus-pfp.png
-logo:               /art/img/2020-cozymaus-pfp.png
+favicon:            img/favicon.png
+logo:               img/favicon.png
 
 # Pagination Settings
 paginate_path: "/pg-:num/"
