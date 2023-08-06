@@ -25,6 +25,14 @@
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
     <link href="/late-2017/css/contact.css" rel="stylesheet">
 
+    <style>
+
+        .btn-secondary.disabled, .btn-secondary:disabled {
+  background-color: gray;
+}
+        
+    </style>
+
 </head>
 
 <body style="margin-top:34px!important;">
@@ -74,7 +82,7 @@
                                     <input class="form-control" type="email" name="_replyto" placeholder="Your Email"><br>
                                     <textarea class="form-control" name="message" cols="30" rows="5" placeholder="Your Message"></textarea>
                                     <input type="text" name="_gotcha" style="display:none"><br>
-                                    <button type="submit" class="btn btn-secondary">Send</button>
+                                    <button disabled type="submit" class="btn btn-secondary">Send</button>
                                 </form>
 
                             </div>
