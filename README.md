@@ -1,11 +1,11 @@
 # late-2017
 This was my second portfolio website which I used briefly in late 2017. It was my first finished portfolio website created entirely from scratch.
 
-<img src="https://irisoflys.com/img/secondportfolio.png" alt="Screenshot of Second Portfolio" class="img-fluid"/>
+<img src="https://lizlorena.com/img/secondportfolio.png" alt="Screenshot of Second Portfolio" class="img-fluid"/>
 
 <p>The final portfolio of mine from 2017 was a more ambitious and complicated theme for me to do. I had figured out that naming your pages <em>index.html </em>and placing them inside a folder with the name of the page made it so that you wouldn't need to type <em>.html </em>in the URL, but this got a little bit out of hand as I found myself making copies of the same code again and again. Ultimately this portfolio was a failure for me, but I was trying to get more creative with it. I had been looking for inspiration online and came across <a href="http://arielbeninca.com" target="_blank" rel="nofollow">Ariel Beninca</a>'s awesome portfolio website. At the time, her site was mainly white with graphics of her work in an alternating pattern, so I just had to try to replicate the layout. I began making some colorful graphics to represent my items, which I still use on my current portfolio. One of the bad choices I made, however, was making not only a fixed menu, but a fixed footer.</p>
 
-<img src="https://irisoflys.com/img/smoooooth.gif" alt="Gif of Social Buttons" class="img-fluid"/>
+<img src="https://lizlorena.com/img/smoooooth.gif" alt="Gif of Social Buttons" class="img-fluid"/>
 
 <p class="caption">Having fun with image opacity.</p>
 
@@ -13,7 +13,7 @@ This was my second portfolio website which I used briefly in late 2017. It was m
 
 <p>And if you mouse over my initials...</p>
 
-<img src="https://irisoflys.com/img/LB.gif" alt="Gif of Animated Logo on Second Portfolio" class="img-fluid"/>
+<img src="https://lizlorena.com/img/LB.gif" alt="Gif of Animated Logo on Second Portfolio" class="img-fluid"/>
 
 <p>You get a smug little froggy smile! 🐸 </p>
 
